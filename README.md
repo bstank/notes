@@ -1,2 +1,2 @@
-# notes
-Notes, on various topics.
+# Notes
+Notes, on various topics (just for synchronisation).
